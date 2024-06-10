@@ -1,0 +1,3 @@
+G la do thi co huong
+{0,1}{1,3}{3,2}
+do dai cay khung nho nhat: 5

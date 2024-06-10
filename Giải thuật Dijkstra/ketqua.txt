@@ -1,0 +1,7 @@
+G la do thi co huong
+
+khong co duong di tu 2->0
+
+khong co duong di tu 2->1
+
+khong co duong di tu 2->3

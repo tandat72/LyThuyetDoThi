@@ -1,0 +1,3 @@
+G la do thi vo huong
+4,52,31,21,3
+Do dai cay khung nho nhat:12

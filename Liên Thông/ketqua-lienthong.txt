@@ -1,0 +1,7 @@
+G la do thi vo huong
+
+G lien thong
+
+so thanh phan lien thong:1
+
+thanh phan thu 1: 12345
